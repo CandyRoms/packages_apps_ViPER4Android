@@ -495,8 +495,6 @@ public final class ViPER4Android extends Activity {
 
         // Setup action bar
         ActionBar mActionBar = getActionBar();
-        mActionBar.setDisplayHomeAsUpEnabled(true);
-        mActionBar.setHomeButtonEnabled(true);
         mActionBar.setDisplayShowTitleEnabled(true);
 
         // Setup effect setting page
